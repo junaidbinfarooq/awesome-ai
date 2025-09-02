@@ -1,6 +1,8 @@
-![Awesome AI Banner](assets/banner.png)
+![Awesome AI Banner](https://placehold.co/1200x200/FFFFFF/0366D6?text=Awesome+AI)
 
 # Awesome AI
+
+> 🤖 Curated resources for building powerful AI applications.
 
 A curated list of resources to build AI-powered applications. This repository gathers frameworks, libraries, datasets, tools, tutorials, and communities that help accelerate AI development.
 
