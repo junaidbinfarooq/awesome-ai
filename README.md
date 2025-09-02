@@ -169,7 +169,7 @@ Please refer to [Contributing](CONTRIBUTING.md) for contributing guidelines.
 
 We follow a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming and inclusive environment.
 
---
+---
 
 ## License
 
