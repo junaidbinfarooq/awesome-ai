@@ -11,6 +11,10 @@ A curated list of resources to build AI-powered applications. This repository ga
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![License: CC0-1.0](https://img.shields.io/badge/License-CC-yellow.svg)
 
+## Inspired By
+
+This list is inspired by [@sindresorhus/awesome](https://github.com/sindresorhus/awesome), the original and widely respected resource for curated lists on GitHub. If you like this project, be sure to check out other [awesome lists](https://github.com/sindresorhus/awesome#readme)!
+
 ## Table of Contents
 
 - [Frameworks & Libraries](#frameworks--libraries)
