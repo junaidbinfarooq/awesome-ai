@@ -151,7 +151,8 @@ Curated lists of newsletters and podcasts about AI.
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request with your additions or improvements. Make sure to categorize resources appropriately and avoid duplicates.
+Contributions are welcome! Please open an issue or submit a pull request with your additions or improvements.
+Please refer to [Contributing](CONTRIBUTING.md) for contributing guidelines.
 
 ---
 
