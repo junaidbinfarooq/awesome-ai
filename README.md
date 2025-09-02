@@ -1,6 +1,13 @@
+![Awesome AI Banner](assets/banner.png)
+
 # Awesome AI
 
 A curated list of resources to build AI-powered applications. This repository gathers frameworks, libraries, datasets, tools, tutorials, and communities that help accelerate AI development.
+
+![GitHub Repo stars](https://img.shields.io/github/stars/junaidbinfarooq/awesome-ai?style=social)
+![GitHub forks](https://img.shields.io/github/forks/junaidbinfarooq/awesome-ai?style=social)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![License: CC0-1.0](https://img.shields.io/badge/License-CC-yellow.svg)
 
 ## Table of Contents
 
