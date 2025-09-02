@@ -4,21 +4,19 @@ Thank you for considering contributing to Awesome AI! We welcome contributions f
 
 ## Contribution Guidelines
 - **Fork the repository**: Start by forking the repository to your own GitHub account.
-- **Create a new branch**: Always create a new branch for your feature or bugfix. Use descriptive names for your branches.
-- **Write tests**: If applicable, write tests for your code to ensure its correctness.
+- **Create a new branch**: Always create a new branch for your contribution. Use descriptive names for your branches.
 - **Submit a pull request**: Once your changes are ready, submit a pull request to the main repository. Provide a clear description of your changes.
 
 ## Commit Message Conventions
-- Use the present tense: "Add feature" instead of "Added feature".
-- Use the imperative mood: "Fix bug" instead of "Fixes bug".
+- Use the present tense: "Adds feature" instead of "Added feature".
 - Limit the subject line to 72 characters.
 - Include a body if necessary, explaining what and why you have done something.
 
 Example:
 ```
-Add new feature for better user experience
+Adds a new resource
 
-This feature enhances the user experience by allowing users to...
+Bla bla...
 ```
 
 ## Code of Conduct
