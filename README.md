@@ -155,6 +155,7 @@ A list of startups and companies working in the AI space.
 Curated lists of newsletters and podcasts about AI.
 
 - [Import AI by Jack Clark](https://jack-clark.net/)
+- [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now, with ranked coverage of models, companies, funding, policy, and research.
 - [The Batch (DeepLearning.AI)](https://www.deeplearning.ai/thebatch/) - Weekly newsletter.
 - [Eye on AI Podcast](https://www.eye-on.ai/)
 - [Practical AI Podcast](https://changelog.com/practicalai)
